@@ -12,6 +12,8 @@ namespace CSharp6
     {
         static void Main(string[] args)
         {
+
+            //String Interpolation
             Show();
 
             ReadKey();
